@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently studying at Gazi University.<br>🌱 I’m currently learning Spring Boot.<br>🏴 I am also improving myself in Unity and game making.<br>🕹️ I participated in the Academy game jam, you can view our game from my repositories.<br>💬 erenalpteksen01@gmail.com
+<span style="font-family: JetBrains Mono">🔭 I’m currently studying at Gazi University.</span>
+<br>🌱 I’m currently learning Spring Boot.<br>🏴 I am also improving myself in Unity and game making.<br>🕹️ I participated in the Academy game jam, you can view our game from my repositories.<br>💬 erenalpteksen01@gmail.com
 
 
 # 🌐 Socials:
@@ -16,3 +17,10 @@
 [![](https://visitcount.itsvg.in/api?id=Erenalp06&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+    body {
+        font-family: 'JetBrains Mono', monospace;
+    }
+</style>
