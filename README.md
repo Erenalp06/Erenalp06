@@ -1,3 +1,10 @@
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+    body {
+        font-family: 'JetBrains Mono', monospace;
+    }
+</style>
+
 # 💫 About Me:
 <span style="font-family: JetBrains Mono">🔭 I’m currently studying at Gazi University.</span>
 <br>🌱 I’m currently learning Spring Boot.<br>🏴 I am also improving myself in Unity and game making.<br>🕹️ I participated in the Academy game jam, you can view our game from my repositories.<br>💬 erenalpteksen01@gmail.com
@@ -18,9 +25,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
-    body {
-        font-family: 'JetBrains Mono', monospace;
-    }
-</style>
+
