@@ -46,7 +46,7 @@
   
 |Title | Stars | Technologies|
 |--|--|--|
-| [Mangala](https://github.com/Erenalp06/Data-Structures-and-Algorithms) | <img alt="Stars" src="https://img.shields.io/github/stars/Erenalp06/Data-Structures-and-Algorithms?style=flat-square&labelColor=black"/> | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) ![Minimax](https://img.shields.io/badge/Minimax-red) ![Alpha-Beta Pruning](https://img.shields.io/badge/Alpha--Beta%20Pruning-green) 
+| [Mangala](https://github.com/Erenalp06/bmt-436-mangala-ai) | <img alt="Stars" src="https://img.shields.io/github/stars/Erenalp06/bmt-436-mangala-ai?style=flat-square&labelColor=black"/> | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) ![Minimax](https://img.shields.io/badge/Minimax-red) ![Alpha-Beta Pruning](https://img.shields.io/badge/Alpha--Beta%20Pruning-green) 
 
 </td></tr> </table>
 
