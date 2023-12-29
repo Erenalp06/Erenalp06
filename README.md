@@ -33,13 +33,27 @@
 </td></tr> </table>
 
 <table>
-<tr><th>Unity Projects</tr>
+<tr><th>Unity Projects</th><th>AI Projects</th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
 |--|--|--|
 | [U-77 GameJam Project](https://github.com/Erenalp06/u-77-gamejam-team-project) | <img alt="Stars" src="https://img.shields.io/github/stars/Erenalp06/u-77-gamejam-team-project?style=flat-square&labelColor=black"/> | ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=white)
 | [My First Unity Game](https://github.com/Erenalp06/unity-first-basic-platform-game) | <img alt="Stars" src="https://img.shields.io/github/stars/Erenalp06/unity-first-basic-platform-game?style=flat-square&labelColor=black"/> | ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=white)
+
+
+</td><td>
+  
+|Title | Stars | Technologies|
+|--|--|--|
+| [Mangala](https://github.com/Erenalp06/Data-Structures-and-Algorithms) | <img alt="Stars" src="https://img.shields.io/github/stars/Erenalp06/Data-Structures-and-Algorithms?style=flat-square&labelColor=black"/> | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) ![Minimax](https://img.shields.io/badge/Minimax-red) ![Alpha-Beta Pruning](https://img.shields.io/badge/Alpha--Beta%20Pruning-green) 
+
+</td></tr> </table>
+
+
+
+
+
 
 
 
