@@ -1,6 +1,9 @@
 # 💫 About Me:
-<span style="font-family: JetBrains Mono">🔭 I’m currently studying at Gazi University.</span>
-<br>🌱 I’m currently learning Spring Boot.<br>🏴 I am also improving myself in Unity and game making.<br>🕹️ I participated in the Academy game jam, you can view our game from my repositories.<br>💬 erenalpteksen01@gmail.com
+<span style="font-family: JetBrains Mono">🎓 Gazi Üniversitesi Bilgisayar Mühendisliği mezunuyum.</span>
+<br>💼 Şu anda Havelsan’da aday mühendis olarak çalışıyorum.
+<br>🛠️ Sistem ve ağ (network) yöneticiliği alanlarında kendimi geliştirmeye çalışıyorum.
+<br>📊 İzleme sistemleri, sunucu yönetimi ve Kubernetes gibi konularda aktif olarak çalışmalar yürütüyorum.
+<br>💬 Bana ulaşmak için: erenalpteksen01@gmail.com
 
 
 # 🌐 Socials:
