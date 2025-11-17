@@ -1,6 +1,6 @@
 # 💫 About Me:
 <span style="font-family: JetBrains Mono">🎓 Gazi Üniversitesi Bilgisayar Mühendisliği mezunuyum.</span>
-<br>💼 Şu anda Havelsan’da aday mühendis olarak çalışıyorum.
+<br>💼 Şu anda Havelsan’da Yazılım Mühendisi olarak çalışıyorum.
 <br>🛠️ Sistem ve ağ (network) yöneticiliği alanlarında kendimi geliştirmeye çalışıyorum.
 <br>📊 İzleme sistemleri, sunucu yönetimi ve Kubernetes gibi konularda aktif olarak çalışmalar yürütüyorum.
 <br>💬 Bana ulaşmak için: erenalpteksen01@gmail.com
